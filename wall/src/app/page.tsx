@@ -40,7 +40,7 @@ export default function Home() {
             {/* Welcome Section */}
             <div className="bg-white rounded-lg shadow border border-gray-200 p-6 text-center">
               <h2 className="text-2xl font-semibold text-gray-900 mb-2">
-                What's on your mind?
+                Whats on your mind?
               </h2>
               <p className="text-gray-600 text-sm">
                 Share an update with your friends

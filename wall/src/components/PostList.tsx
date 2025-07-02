@@ -84,7 +84,7 @@ export default function PostList() {
 
   return (
     <div className="space-y-4">
-      {posts.map((post, index) => (
+      {posts.map((post) => (
         <article 
           key={post.id} 
           className="bg-white rounded-lg shadow border border-gray-200 overflow-hidden"
