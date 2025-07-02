@@ -1,7 +1,7 @@
 'use client'
 import { useEffect, useState } from 'react'
 import { supabase } from '@/lib/supabase'
-import { Heart, MessageCircle, MoreHorizontal, User, ThumbsUp } from 'lucide-react'
+import { MessageCircle, MoreHorizontal, User, ThumbsUp } from 'lucide-react'
 
 interface Post {
   id: string

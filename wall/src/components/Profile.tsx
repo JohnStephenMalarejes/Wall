@@ -1,4 +1,4 @@
-import { MapPin, Calendar, Link as LinkIcon } from 'lucide-react'
+import { MapPin, Calendar} from 'lucide-react'
 
 interface ProfileProps {
   className?: string

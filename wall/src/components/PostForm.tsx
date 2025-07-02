@@ -3,7 +3,7 @@ import { useState } from 'react'
 import { supabase } from '@/lib/supabase'
 import { Button } from '@/components/ui/button'
 import { Textarea } from '@/components/ui/textarea'
-import { Send, User } from 'lucide-react'
+import { User } from 'lucide-react'
 
 export default function PostForm() {
   const [content, setContent] = useState('')
